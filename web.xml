@@ -1,0 +1,8 @@
+<servlet>
+  <servlet-name>ProfileServlet</servlet-name>
+  <servlet-class>servlet.ProfileServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+  <servlet-name>ProfileServlet</servlet-name>
+  <url-pattern>/ProfileServlet</url-pattern>
+</servlet-mapping>
